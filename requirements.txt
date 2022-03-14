@@ -1,0 +1,4 @@
+Django==1.4
+slumber
+oauth2
+gunicorn
