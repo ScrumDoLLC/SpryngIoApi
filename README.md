@@ -13,7 +13,7 @@ within your company**, you may use HTTP Basic authentication with your username
 and password to speed development.
 
 A Python based example showing this can be found here:
-https://github.com/ScrumDoLLC/SpryngIoApi/tree/master/examples/python
+https://github.com/ScrumDoLLC/SpryngIoApi/tree/main/examples/python
 
 ### In Browser
 
@@ -71,7 +71,7 @@ Some properties are read-only via the API.  When posting or putting data, please
 consult the body parameter of the API browser.  It lists all valid fields and gives
 examples for the format of the data expected.
 
-![API Browser](https://raw.github.com/ScrumDoLLC/SpryngIoApi/master/images/browser.png "API Browser")
+![API Browser](https://raw.github.com/ScrumDoLLC/SpryngIoApi/main/images/browser.png "API Browser")
 
 
 Rate Throttling
