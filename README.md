@@ -7,14 +7,6 @@ This document describes the API for Spryng.io that can be accessed from https://
 Authentication
 --------------
 
-### HTTP Basic
-If you're creating a script that will **only be used personally or internally
-within your company**, you may use HTTP Basic authentication with your username
-and password to speed development.
-
-A Python based example showing this can be found here:
-https://github.com/ScrumDoLLC/SpryngIoApi/tree/main/examples/python
-
 ### In Browser
 
 For debugging purposes, if you make requests from your browser and are logged in,
