@@ -1,0 +1,7 @@
+# Global config for all examples
+username = "USERNAME"
+password = "PASSWORD"
+access_token = 'keyhere'
+host = "https://app.spryng.io"
+organization_slug = "org_slug"
+initiative_slug = 'initiative_slug'
